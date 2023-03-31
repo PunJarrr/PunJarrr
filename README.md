@@ -8,8 +8,8 @@ I'm developing Minecraft mods
 
 * 🌍  I'm based in Nonthaburi, Thailand
 * ✉️  You can contact me at [punnathorn.vet@gmail.com](mailto:punnathorn.vet@gmail.com)
-* 🚀  I'm currently working on [MyMod](http://github.com/PunJarrr/My-Mod-1.19.3)
-* 🧠  I'm learning Java, HTML and JavaScript
+* 🚀  I'm currently working on [MoreBricks](http://github.com/PunJarrr/MoreBricks)
+* 🧠  I'm learning Java, JavaScript, Node.js and Arduino
 
 ### Skills
 
