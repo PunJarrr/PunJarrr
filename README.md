@@ -1,4 +1,4 @@
-Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pun.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pun.
 ============================================================================================================================
 
 PunJarrr
@@ -7,8 +7,8 @@ PunJarrr
 I'm Minecraft mods and Node.js developer.
 
 *   🌍  I'm based in Nonthaburi, Thailand.
-*   ✉️  You can contact me at [punnathorn.vet@gmail.com](mailto:punnathorn.vet@gmail.com).
-*   🚀  I'm currently working on [MoreBricks](http://https://github.com/PunJarrr/MoreBricks).
+*   ✉️  You can contact me at [punnathorn.vet@gmail.com.](mailto:punnathorn.vet@gmail.com.)
+*   🚀  I'm currently working on [MoreBricks.](http://https://github.com/PunJarrr/More⁸Bricks)
 *   🧠  I'm learning Java, JavaScript, Node.js, and Arduino.### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
