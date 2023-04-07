@@ -23,6 +23,10 @@ Hello my name is Punnathorn Vettayanont. My nickname is Pun.
 <a href="https://www.reddit.com/user/PunJarrr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Reddit_icon.svg/600px-Reddit_icon.svg.png" width="32" height="32" /></a>
 </p>
 
+## 💸 Support Me
+
+<a href="https://www.buymeacoffee.com/PunJarrr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 ## 📈 Badges
 
 <b>My GitHub Stats</b>
