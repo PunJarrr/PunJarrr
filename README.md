@@ -23,6 +23,10 @@ Hello my name is Punnathorn Vettayanont. My nickname is Pun.
 <a href="https://www.reddit.com/user/PunJarrr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Reddit_icon.svg/600px-Reddit_icon.svg.png" width="32" height="32" /></a>
 </p>
 
+## 🏅 Certificates
+
+<a href="https://school.borntodev.com/certificate/rhvhkhJdunPH"><img src="https://previews.dropbox.com/p/thumb/AB2ayF-n8xP9RLMoNdOYOTY7Bm9u1k5CSHsmqQ3Ke2dY4gVAgHN0P5VSd6FjQohNDnALK8H4hnk7ZrmIKty8eCkmfOC-bpKAsfwTajlfYAEoQUOAGDoDNQd2POeH3Z7fj1yc3NrSUDiQrbflb_dX6ruY9VyyBHiX6L2EVJzftcU9TDVwl4k-RRgwkobbyzXLuC38jz3GyAnJ6R2-spd3dELWUWan5mr3EWElqKTIxqkFmm_CNAdHlRF0lR-n9_R8R6Lkkz3YusC83uTAXToV14TW2QyNe6H9eELVjpyptXQ1VkFj3bheG9LQxtv7COZsE8TZZbB2YHUUyAMTSFv19qYodU1d8-ZY8qrQBnYOJZpKnLJzEqYufvhely8od4tzA7g/p.png"></a>
+
 ## 💸 Support Me
 
 <a href="https://www.buymeacoffee.com/PunJarrr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
