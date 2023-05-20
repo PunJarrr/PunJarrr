@@ -20,7 +20,6 @@ Hello my name is Punnathorn Vettayanont. My nickname is Pun.
 <p align="left">
 <a href="https://discord.com/users/PunJarrr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/PunJarrr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.reddit.com/user/PunJarrr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Reddit_icon.svg/600px-Reddit_icon.svg.png" width="32" height="32" /></a>
 </p>
 
 ## 💸 Support Me
